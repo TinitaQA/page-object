@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ug650iqxal2pyou9?svg=true)](https://ci.appveyor.com/project/TinitaQA/page-object)
